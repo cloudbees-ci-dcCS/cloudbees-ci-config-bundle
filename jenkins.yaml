@@ -4,9 +4,9 @@ cloudbees-slack-integration:
     slackWorkspace: "T010A455W77"
     users:
     - id: "${GITHUB_USER}"
-      jenkins: "${GITHUB_USER}"
+      jenkins: "beedemo-dev2""
       optedIn: true
-      scmId: "${GITHUB_USER}"
+      scmId: "beedemo-dev2"
       slack: "doug.canny@crowdstrike.com"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
