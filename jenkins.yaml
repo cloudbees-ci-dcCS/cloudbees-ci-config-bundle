@@ -3,7 +3,7 @@ cloudbees-slack-integration:
     slackToken: "${slackToken}"
     slackWorkspace: "T010A455W77"
     users:
-    - id: "${GITHUB_USER}"
+    - id: "beedemo-dev2"
       jenkins: "beedemo-dev2""
       optedIn: true
       scmId: "beedemo-dev2"
