@@ -3,10 +3,10 @@ cloudbees-slack-integration:
     slackToken: "${slackToken}"
     slackWorkspace: "T010A455W77"
     users:
-    - id: "beedemo-dev2"
-      jenkins: "beedemo-dev2""
+    - id: "beedemo-dev3"
+      jenkins: "beedemo-dev3""
       optedIn: true
-      scmId: "beedemo-dev2"
+      scmId: "beedemo-dev3"
       slack: "doug.canny@crowdstrike.com"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
